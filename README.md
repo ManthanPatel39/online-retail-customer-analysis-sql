@@ -32,18 +32,6 @@ Analyze the dataset to:
 
 ---
 
-## 📁 Project Structure
-online-retail-customer-analysis-sql/
-│
-├── README.md
-├── schema/
-│   └── transactions_table.sql       
-│
-├── data/
-│   └── online_retail_II.csv        
-├── analysis/
-│   └── customer_analysis.sql       
-│
 └── results/
     └── insights.md                 
 
