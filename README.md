@@ -2,7 +2,7 @@
 Customer analytics on Online Retail II dataset using SQL: revenue insights, top customers, and churn risk assessment.
 # Online Retail Customer Analysis (SQL)
 
-## ⭐ Project Overview (STAR Method)
+## ⭐ Project Overview 
 
 ### Situation
 An online retail company had ~500K transactions in the **Online Retail II dataset**, but lacked insights about customer behavior, revenue contribution, and churn risk.
